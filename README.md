@@ -1,4 +1,4 @@
-# Patients Summary
+# Guidance for Identifying Diagnosis Codes from Clinical Notes on AWS
 
 Assigning appropriate ICD-10 codes from clinical notes is a crucial task in healthcare documentation, as it involves identifying medical conditions accurately. This process entails a careful review of the patient's medical history, presenting symptoms, physical examination findings, diagnostic test results, and any other relevant information documented in the clinical notes. This solution provides guidance on leveraging AWS services to effectively and accurately identify ICD-10 codes from patients' medical histories, clinical notes, or examination findings.
 
